@@ -1,0 +1,13 @@
+{
+  "canisters": {
+    "debate_arena": {
+      "main": "src/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "mops sources"
+    }
+  }
+}

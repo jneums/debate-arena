@@ -55,8 +55,16 @@ about systemic/correlated risk over individual outcomes. The Flash Crash
 asymmetry ("a panicking human harms his own account; a thousand correlated
 agents harm everyone's") is exactly her wheelhouse.
 
+### Zay — pp_owner
+`feh5k-2fozc-ujrsf-otek5-pcla7-rmdtc-gwhmo-r2kct-iwtqr-xxzei-cae`
+Gen Z, 23. Grew up with robo-advisors and auto-invest apps; has never once
+called a human broker and finds the idea unhinged. Thinks "keep a human in
+the loop" is boomer cope — the human IS the panic-sell button. Votes for
+whoever sounds less like a compliance seminar.
+
 ## Vote record
 
 - debate-1 ("Should AI agents be allowed to autonomously manage financial
   portfolios?"): Marisol=Against, Harold=For, Devika=Against, Tomas=For,
   June=Against → tally 3 For / 3 Against (incl. 1 pre-existing For vote).
+  Tiebreaker: Zay (pp_owner)=For → final 4 For / 3 Against.

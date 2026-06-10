@@ -78,7 +78,7 @@ shared ({ caller = deployer }) persistent actor class McpServer() = self {
     { response with headers = [] };
   };
 
-  transient let authContext : ?AuthTypes.AuthContext = ?AuthState.init(
+  let authContext : ?AuthTypes.AuthContext = ?AuthState.init(
     Principal.fromActor(self),
     owner,
     issuerUrl,
